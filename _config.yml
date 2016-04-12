@@ -1,6 +1,6 @@
 name: xynergycapital.com
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25166
 typography_spectrum: 0.18761
 title: Xynergy Commercial Capital
 cta:
@@ -22,7 +22,7 @@ color:
     - '#5d7fae'
     - '#000000'
     - '#000080'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.35108531592413783
   rhythmicContrast: 0.08511748886667192
