@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[xynergycapital.com]]></title>
-        <description><![CDATA[xynergycapital.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Xynergy Commercial Capital]]></title>
+        <description><![CDATA[Xynergy Commercial Capital]]></description>
+        <link>https://thegrid.ai/xynergycapital-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 15:01:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 01:07:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xynergycapital-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Factoring | Accounts Receivable Financing | Xynergy Capital]]></title>
+            <description><![CDATA[<article><h1>Factoring | Accounts Receivable Financing | Xynergy Capital</h1><p>Xynergy Capital provides invoice factoring of accounts receivables to businesses and government vendors. Immediate access to unlimited working capital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fb99d8cac7cce80e4e8fe87859f1d70652f4c4a.jpg"></article>]]></description>
+            <link>http://www.xynergycapital.com/</link>
+            <guid isPermaLink="false">56284b3d-06f0-48c7-a56f-d86b91fa5a93</guid>
+            <pubDate>Tue, 12 Apr 2016 01:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d8c1412-1aac-4958-8533-1b929678da59.jpg">]]></description>
-            <link>undefinedxynergy-commercial-capital-is-a-specialized-funding-source/index.html</link>
+            <link>https://thegrid.ai/xynergycapital-com/xynergy-commercial-capital-is-a-specialized-funding-source/index.html</link>
             <guid isPermaLink="false">0eaaec11-2aba-42d4-9565-3d8daf5d521b</guid>
             <pubDate>Mon, 11 Apr 2016 15:01:21 GMT</pubDate>
         </item>
