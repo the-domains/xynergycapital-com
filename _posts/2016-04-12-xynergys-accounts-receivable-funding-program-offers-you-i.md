@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.xynergycapital.com/benefits/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Xynergy’s Accounts Receivable Funding Program:  Offers you immediate and dependable access to unlimited working capital Quickly strengthens your company’s financial statements and credit rating Makes it possible for you to obtain cash discounts for early payment of your accounts payable (or any other debt) Gives you the ability to offer better credit terms to your clients ​Increases your purchasing power and provides cash for marketing, expansion, and new equipment ​Can enable you to meet payroll, pay your taxes on time, and eliminate the need to file bankruptcy Some of the more common commercial industries that rely on accounts receivable funding to maintain a steady flow of cash include:  Manufacturers ​Wholesalers ​Importers ​Distributors ​Personnel/Temp agencies Professional Services ​Toys and sporting goods ​Security companies ​Commercial printers ​Cable installers'
-datePublished: '2016-04-12T01:45:55.866Z'
-dateModified: '2016-04-12T01:25:27.771Z'
+datePublished: '2016-04-12T02:16:07.114Z'
+dateModified: '2016-04-12T02:16:06.815Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-12-xynergys-accounts-receivable-funding-program-offers-you-i.md
